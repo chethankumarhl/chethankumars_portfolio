@@ -102,12 +102,12 @@ const About = () => {
             delay: 0.1,
           }}
           viewport={{ once: true }}
-          className={`col-span-2 row-span-1 p-6 text-white ${glassCardStyles}`}
+          className={`col-span-2 row-span-1 p-6 text-white ${glassCardStyles} h-[300px] md:h-[200px]`}
         >
           <h3 className="text-xl md:text-2xl font-bold mb-4">
             Techstacks and Technologies
           </h3>
-          <div className="flex flex-wrap gap-3 md:gap-2 sm:gap-1">
+          <div className="flex flex-wrap gap-3 md:gap-2 gap-1">
             {[
               "Python",
               "Java",

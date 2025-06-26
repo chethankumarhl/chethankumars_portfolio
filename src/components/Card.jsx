@@ -3,7 +3,7 @@ import { FiGithub } from 'react-icons/fi';
 
 const Card = ({ image, title, tag, description, techStack, githubLink, liveLink }) => {
   return (
-    <div className="relative w-full max-w-[26rem] h-[520px] rounded-xl p-[2px] cursor-pointer bg-gray-500 transition-all duration-500 group hover:bg-gradient-to-br hover:from-purple-600 hover:to-blue-500">
+    <div className="relative w-full max-w-[26rem] h-[600px] rounded-xl p-[2px] cursor-pointer bg-gray-500 transition-all duration-500 group hover:bg-gradient-to-br hover:from-purple-600 hover:to-blue-500">
       <div className="bg-black w-full h-full rounded-xl overflow-hidden flex flex-col justify-between">
         
         {/* Image and Badge */}
