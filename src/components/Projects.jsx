@@ -6,6 +6,7 @@ import mobcheckImage from '../assets/mobcheck.png';
 import fitnessImage from '../assets/fitness.png';
 import ieeeImage from '../assets/ieee.jpg';
 import constrImg from '../assets/underconst.jpg';
+import bloodImg from '../assets/bloodlink.png';
 
 const projectsData = [
   {
@@ -49,13 +50,14 @@ const projectsData = [
     liveLink: 'https://chethankumarhl.github.io/Fitness_website_html_css_js/',
   },
   {
-    image: constrImg,
-    title: 'Blood Line: A next.js app',
-    tag: 'next.js',
+    image: bloodImg,
+    title: 'Blood Link : A Connection Between Blood doner and Patients',
+    tag: 'React.js',
     description:
-      'A next js application with focus on fully functional app for the blood doner and the patients who require blood.',
-    techStack: ['next', 'react', 'MongoDB','auth','socket io'],
-   
+      'BloodLink is a full-stack web application designed streamline the process of blood donation and requests.Developed using node js as backend and react js as frontend with AI chatbot.',
+    techStack: ['Node js', 'react', 'MongoDB','jwt auth','tailwind css',"AI chatbot"],
+    githubLink: 'https://github.com/chethankumarhl/bloodlink',
+    liveLink: 'https://bloodlink-blush.vercel.app/',
   },
   {
     image: constrImg,
