@@ -8,7 +8,7 @@ const educationData = [
     location: "Bangalore, IN",
     course: "Bachelor of Technology in Computer Science",
     duration: "Aug 2022 – Aug 2026",
-    result: "GPA: 8.89/10 (till 5th Semester)",
+    result: "GPA: 9.0/10 (till 6th Semester)",
   },
   {
     institute: "APS College of Commerce",
