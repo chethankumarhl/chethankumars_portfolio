@@ -61,7 +61,7 @@ const Footer = () => {
                     whileInView={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.1, duration: 0.6 }}
       className="mt-10 text-center text-gray-600 text-xs border-t border-gray-700 pt-4">
-        © {new Date().getFullYear()} Chethan Kumar HL. All rights reserved.
+        © {new Date().getFullYear()} Chethan Kumar HL.
       </motion.div>
     </footer>
   );

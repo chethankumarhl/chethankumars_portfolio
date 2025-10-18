@@ -79,7 +79,7 @@ const ContactMe = () => {
                     </div>
                     <h3 className="text-xl font-semibold mb-1">Check out my GitHub</h3>
                     <p className="text-gray-400 text-sm mb-2">
-                        Dive into my codebase — real-world solutions, side projects, and experiments.
+                        Dive into my codebase - real-world solutions, side projects, and experiments.
                     </p>
                     <a
                         href="https://github.com/chethankumarhl"

@@ -12,12 +12,17 @@ const certifications = [
   {
     name: "Japanese Language NAT-TEST Q5 ",
     year: "2025",
-    link: "https://www.nat-test.com/",
+    link: "https://drive.google.com/file/d/1ZFXPj4rKF_VVkrdtSPCdt-2B3j01d5hk/view?usp=sharing",
   },
   {
     name: "IBM Machine Learning (Coursera)",
     year: "2024",
     link: "https://www.coursera.org/account/accomplishments/professional-cert/48KC0NUZ36IS",
+  },
+  {
+    name: "Japanese Language Proficiency TEST N4 ",
+    year: "2025",
+    link: "https://drive.google.com/file/d/1gD6hm-Kvg0qlb3_lPaucWlkBtulT-pzG/view?usp=sharing",
   },
   {
     name: "Principles of UX/UI Design",

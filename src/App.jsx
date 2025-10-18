@@ -8,6 +8,7 @@ import ContactMe from './components/ContactMe.jsx'
 import Footer from './components/Footer.jsx'
 import Resume from './components/Resume.jsx'
 import NotFound from './components/NotFound.jsx';
+import ScrollToTop from './components/ScrollToTop.jsx'
 import { Routes,Route } from 'react-router-dom'
 export default function App() 
 {
@@ -33,6 +34,8 @@ export default function App()
         <Route path="/resume" element={<Resume />} />
          <Route path="*" element={<NotFound />} />
       </Routes>
+      <ScrollToTop /> 
+      {/* Scroll to top button component */}
     </>
   )
 }
