@@ -1,12 +1,49 @@
-# React + Vite
+# 👋 Hi, I'm Chethan Kumar H. L.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my GitHub profile!  
+I'm a passionate **Web Developer** and **Tech Enthusiast** who loves building modern, responsive, and user-friendly applications. This repository serves as my **GitHub Profile Page**, showcasing my portfolio and journey as a developer.
 
-Currently, two official plugins are available:
+🌐 **Live Portfolio:** [https://www.chethankumarhl.xyz](https://www.chethankumarhl.xyz/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 💻 I enjoy working with **React**, **JavaScript**, and modern web technologies.  
+- 🌱 Currently exploring **full-stack development** and building impactful projects.  
+- ✨ I love clean UI/UX and smooth user experiences.  
+- 📚 Constantly learning new tools, frameworks, and best practices.
+
+---
+
+## 🛠️ Tech Stack
+
+Here are some of the technologies I use frequently:
+
+- **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
+- **Backend:** Node.js, Express.js, Flask  
+- **Database:** MongoDB, Firebase  
+- **Others:** Git & GitHub, Docker, REST APIs, Cloud Deployment
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 💉 **BloodLink** | A full-stack blood donation and request platform with notifications, admin panel, and AI features. | *Coming soon* |
+| 📱 **Used Mobile Price Predictor** | Flask app that predicts used mobile phone prices based on multiple features. | *Coming soon* |
+| ✍️ **OCR Text Extraction App** | Web app to detect handwritten vs printed text using OCR & LLMs. | *Coming soon* |
+
+👉 You can find all my projects in my [Repositories](https://github.com/chethankumarhl?tab=repositories).
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 [Portfolio](https://www.chethankumarhl.xyz/)  
+
+---
+
+⭐ If you like my work, consider following me or starring my projects. Your support motivates me to build more!
+
